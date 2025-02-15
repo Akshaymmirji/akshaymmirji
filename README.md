@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/44957fe9724cc8b36fc1a11e104bc080618ff645d73746a66a6b44d73d7992f1/68747470733a2f2f7170682e66732e71756f726163646e2e6e65742f6d61696e2d71696d672d6661376234626463336232663733653734396535633263363436643461653133)
 <h1 align="center">Hi 👋, I'm Akshay M Mirji</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend developer from India</h3>
 
 <img align="right" alt="Coding" width="400"
 src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952ctryfyzr713c2eqb0kbfm1z62ylbe4v8xi4kbwcs&ep=v1_gifs_search&rid=giphy.gif&ct=g">
@@ -9,11 +9,11 @@ src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952ctr
 
 - 🌱 I’m currently learning **reactjs,mangoDb**
 
-- 💬 Ask me about **mysql ,oops , Operating System**
+- 💬 Ask me about **sql ,Java , Operating System**
 
 - 📫 How to reach me **akshaymmirji2003@gmai.com**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I am Good and dedicated**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
