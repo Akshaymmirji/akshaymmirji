@@ -7,7 +7,7 @@ src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=6c09b952ctr
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshaymmirji&label=Profile%20views&color=0e75b6&style=flat" alt="akshaymmirji" /> </p>
 
-- 💬 Ask me about **sql ,Java , Operating System**
+- 💬 Ask me about **oops, Operating System**
 
 - 📫 How to reach me **akshaymmirji2003@gmail.com**
 
